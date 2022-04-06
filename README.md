@@ -21,7 +21,8 @@ This repository contains a folder for each of the tools used within the course. 
 4. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 5. After cloning the repository, login to DockerHub with the following command `docker login`.
 6. Once logged into DockerHub execute the `setup.sh` script with the following command `./setup.sh [DockerHub Username]`.
-
+NOTE: If you run on a Mac (Monterrey) you might want to install 
+** brew install gnu-sed and replace sed in setup.sh **
 
 ### Instructor
 
